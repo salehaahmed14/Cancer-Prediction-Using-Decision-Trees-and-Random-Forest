@@ -7,6 +7,6 @@ Clone the repository or download the ZIP file.
 
 Install dependencies: Python (>=3.6), Jupyter Notebook, NumPy, Pandas, Scikit-learn.
 
-Launch Jupyter Notebook and open Cancer_Prediction.ipynb.
+Launch Jupyter Notebook/Google Colab and open Cancer_Prediction.ipynb.
 
 Execute the cells to preprocess data, train the classifiers, and evaluate results.
